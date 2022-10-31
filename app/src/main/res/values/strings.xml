@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_messaging_request">Bindoo Communication</string>
+    <string name="title_messaging_email">Email</string>
+    <string name="title_messaging_faq">FAQ</string>
+    <string name="title_messaging_actualites">Actualités</string>
+    <string name="title_messaging_interne">Messagerie</string>
+    <string name="content_description_messaging_email">image ou icône de Email</string>
+    <string name="content_description_messaging_quiz">image ou icône de Chat Bot</string>
+    <string name="content_description_messaging_actualites">image ou icône de Actualité</string>
+    <string name="content_description_messaging_interne">image ou icône de Messagerie interne</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="description_content_writing_message">float button for writing message</string>
+    <string name="inbox">reçus</string>
+    <string name="outbox">Envoyés</string>
+    <string name="hint_objet_message_write">objet</string>
+    <string name="hint_message_write">tap your message</string>
+    <string name="send">Send</string>
+</resources>
